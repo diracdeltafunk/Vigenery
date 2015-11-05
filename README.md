@@ -1,2 +1,2 @@
 # Vigenery
-Automatic Vigenère Decoding
+Automatic Vigenère and Affine Cipher Decoding
